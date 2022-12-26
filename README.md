@@ -1,16 +1,8 @@
-# React starter pack
+# Meditation App
 
-#### First of all init the starter pack
+Just for relax
 
-# ```npm init```
-
-#### Next, install all packages
-
-# ```npm i```
-
-#### Done, now you can start your react project
-
-# Starter pack includes:
+# Technologies:
 
 - Latest version of ```React```
 - ```Material UI```
@@ -38,19 +30,4 @@ You can access the aliases by using that code:
 ```javascript
   import cool from "@components/cool.js"
 ```
-
-# Starter pack commands:
-
-# ```npm start```
-
-- ### Start project
-
-# ```npm run build```
-
-- ### Build project
-
-# ```npm run deploy```
-
-- ### Deploy project on netlify
-
 # ```May the React Force be with you 🥰```
